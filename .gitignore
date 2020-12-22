@@ -1,18 +1,16 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
 
-# Other files and folders
-.settings/
+# KDE directory preferences
+.directory
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# .nfs files are created when an open file is removed but is still being accessed
+.nfs*
+
+# End of https://www.toptal.com/developers/gitignore/api/linux
+
+# Игнорировать txt файлы
+*.txt
