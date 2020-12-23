@@ -9,5 +9,5 @@
 
 
 <br><br><br>
-<img src="https://miro.medium.com/max/1200/0*tmfbLDU_hIeg0B3B.jpg" width="350" alt="accessibility text"></center>
+<div style="text-align:center"><img src="https://miro.medium.com/max/1200/0*tmfbLDU_hIeg0B3B.jpg" width="350"></div>
 
