@@ -7,4 +7,7 @@
 Поиск автоматически в директории /home/. Если нужна другая, введите её путь как второй параметр.
 
 
-![alt text](https://miro.medium.com/max/1200/0*tmfbLDU_hIeg0B3B.jpg)
+
+<br><br><br>
+<img src="https://miro.medium.com/max/1200/0*tmfbLDU_hIeg0B3B.jpg" width="350" alt="accessibility text"></center>
+
